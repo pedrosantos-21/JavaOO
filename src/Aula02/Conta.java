@@ -8,7 +8,6 @@ public class Conta {
         minhaConta.deposita(1000);
         minhaConta.saca(500);
 
-        // Exibindo informações da conta
         minhaConta.recuperaDadosParaImpressao();
     }
 
